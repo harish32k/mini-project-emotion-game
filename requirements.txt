@@ -1,0 +1,5 @@
+Keras==2.4.3
+pygame==2.0.0
+tensorflow==2.3.0
+opencv_python==4.4.0.42
+numpy==1.18.5
